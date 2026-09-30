@@ -1,1 +1,7 @@
-
+integer= int(input("Enter a number: "))
+if(integer<=2):
+    print("even")
+elif(integer>=3):
+    print("Odd")
+even= 0, 2,4,6,8,10,12. 
+odd= 1, 3, 5, 7, 9
